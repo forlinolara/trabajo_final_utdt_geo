@@ -68,8 +68,7 @@ ggplot() +
        fill = "", x = "Provincia", y = "Cantidad") +
   theme_void() +
   theme(plot.caption=element_text(face = "italic", colour = "gray35",size=6),
-        title=element_text(size=8, face = "bold"))
-
+        title=element_text(size=8, face = "bold")) 
 
 #Dado que la mayoría de los barrios populares se encuentran en Buenos Aires, me quedo con los datos correspondientes a esa provincia
 base_ba <- base %>% 
