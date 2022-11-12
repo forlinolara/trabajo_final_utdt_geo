@@ -257,4 +257,4 @@ base_ba %>%
 #Explorar las características de los integrantes de barrios populares y su acceso a servicios básicos nos brinda información valiosa para el diseño de políticas públicas de calidad
 #Una propuesta de política pública que he desarrollado en otros trabajos consiste en segmentar la AUH según las características de sus beneficiarios
 #Al segmentar esta transferencia de ingresos según parametros preestablecidos  como el acceso a servicios básicos, el programa podría brindar más recursos a quienes más lo necesitan
-#De esta manera, si bien la AUH continuaría siendo un programa universal, la distribución de recursos se ajusta al nivel de necesidad de cada familia, optimizando los esfuerzos estatales para combatir la pobreza
+#De esta manera, si bien la AUH continuaría siendo un programa social universal, la distribución de recursos se ajusta al nivel de necesidad de cada familia, optimizando los esfuerzos estatales para combatir la pobreza
