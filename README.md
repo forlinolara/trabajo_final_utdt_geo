@@ -8,7 +8,7 @@ Alumna: Forlino Lara
 
 ## Radiografía de los barrios populares de Argentina
 
-**¿Dónde están y que características reúnen los barrios populares de Argentina?**
+**¿Dónde están y qué características reúnen los barrios populares de Argentina?**
 
 Este trabajo explora la distribución geográfica y algunas características de los barrios populares del país. Para ello se utiliza el Registro Nacional de Barrios Populares (RENABAP) disponible en: *https://datos.gob.ar/dataset/desarrollo-social-registro-nacional-barrios-populares*
 
